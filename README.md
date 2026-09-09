@@ -142,35 +142,7 @@ My work involves backend development, API integrations, database management and 
 * SQLCipher
 * REST APIs
 
----
 
-## 💻 What I Do
-
-* 🔹 Backend development
-* 🔹 REST API development
-* 🔹 Mobile application development
-* 🔹 Database design and integration
-* 🔹 System maintenance and evolution
-* 🔹 Third-party API integrations
-* 🔹 Automation and integrations
-* 🔹 AI-powered applications and agents
-* 🔹 ERP systems
-
----
-
-## 📚 Currently Learning
-
-I'm constantly improving my knowledge in:
-
-* Advanced TypeScript
-* Software architecture
-* Backend scalability
-* Cloud infrastructure
-* AI agents and integrations
-* DevOps
-* Mobile application architecture
-
----
 
 ## 📫 Connect With Me
 
@@ -197,6 +169,6 @@ I'm constantly improving my knowledge in:
 
 <div align="center">
 
-**"Building, learning, and improving one project at a time."**
+**"Locked in."**
 
 </div>
