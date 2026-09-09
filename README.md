@@ -17,7 +17,6 @@ Gosto de aprender construindo projetos reais, resolver problemas e transformar i
         />
     </a>
 
-```
 <a href="https://github.com/whatah3ll?tab=followers">
     <img
         alt="Followers"
@@ -33,7 +32,7 @@ Gosto de aprender construindo projetos reais, resolver problemas e transformar i
         src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"
     />
 </a>
-```
+
 
 </p>
 
@@ -93,7 +92,7 @@ Gosto de aprender construindo projetos reais, resolver problemas e transformar i
         />
     </a>
 
-```
+
 <a href="https://github.com/whatah3ll?tab=repositories">
     <img
         align="center"
@@ -101,7 +100,7 @@ Gosto de aprender construindo projetos reais, resolver problemas e transformar i
         src="https://github-stats-extended.vercel.app/api/top-langs?username=whatah3ll&layout=donut-vertical&hide_title=true&langs_count=8&theme=transparent"
     />
 </a>
-```
+
 
 </p>
 
@@ -183,14 +182,14 @@ I'm constantly improving my knowledge in:
         />
     </a>
 
-```
+
 <a href="https://www.linkedin.com/in/henrique-araujo-3187942ab/" target="_blank">
     <img
         src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         alt="LinkedIn"
     />
 </a>
-```
+
 
 </p>
 
